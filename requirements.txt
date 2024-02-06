@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+onnxruntime
+onnx
+opencv-python
